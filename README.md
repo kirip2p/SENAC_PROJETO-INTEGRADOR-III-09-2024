@@ -7,10 +7,10 @@ Este projeto “Avaliação do Ensino Básico nos Municípios Brasileiros” est
 
 O projeto surge como uma iniciativa dos estudantes do SENAC, que são da área de tecnologia, com o objetivo de promover a conscientização da importância do gasto eficiente de recursos públicos limitados e de fornecer ferramentas relevantes para os pesquisadores e gestores públicos que lidam com a educação básica no Brasil.
 
-Problema
+Problema:
 Os pesquisadores e os gestores públicos enfrentam diversas dificuldades em suas atividades, sejam financeiras, de gestão de pessoas ou de materiais. A dispersão de fontes de dados de naturezas distintas sobre a educação é mais um desses problemas/restrições enfrentados por esses atores, dada a complexidade dos inúmeros aspectos envolvendo o tema. Isso gera a necessidade de desenvolver habilidades de implementação de banco de dados.
 
-Objetivos
+Objetivos:
 Construir um banco de dados que armazene dados quantitativos de naturezas distintas e dispersas sobre educação básica nos municípios brasileiros (avaliações educacionais, infraestrutura das escolas e recursos financeiros disponibilizados). Com isso, será possível elaborar uma ferramenta para ajudar na avaliação da eficiência dos gastos públicos com ensino básico dos municípios.
 
 Elaboração do Diagrama de Entidade Relacionamento (DER)
