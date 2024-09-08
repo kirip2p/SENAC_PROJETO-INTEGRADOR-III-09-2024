@@ -16,3 +16,9 @@ Construir um banco de dados que armazene dados quantitativos de naturezas distin
 Elaboração do Diagrama de Entidade Relacionamento (DER)
 
 ![alt text](DER.jpeg.jpg)
+
+Para a segunda entrega do projeto integrador, revemos o DDL e consequentemente o seu DER também mudou, uma vez que adquirimos mais conhecimentos para fazer tais modificações. 
+
+Elaboração do Diagrama de Entidade Relacionamento (DER) Final
+
+![alt text](<DER - Final.jpg>)
